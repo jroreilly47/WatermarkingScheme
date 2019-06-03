@@ -1,1 +1,1 @@
-# WatermarkingScheme
+# Watermarking Scheme
